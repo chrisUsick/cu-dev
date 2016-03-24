@@ -1,0 +1,222 @@
+value
+"Broadcaster
+Live Demo 
+Broadcaster is a live video streaming/broadcasting app. It was wrote in TypeScript, but only the JavaScript code is currently maintained. Users can create a broadcast that other user are able to watch.
+
+
+Some of the features included in broadcaster are:
+
+<ul>
+	<li>Create a broadcast from user's webcam</li>
+	<li>Create a profile with broadcast name, description and a thumbnail</li>
+	<li>List active broadcasts on the homepage	</li>
+	<li>Users can view profiles of active broadcasts</li>
+	<li>Watch broadcasts</li>
+</ul>
+"
+"Latest Works
+<!-- display:flex; justify-content: center; -->
+<div style="""" id=""latest-work"" class=""flex-center"">
+    <div class="""">
+        <i class=""fa fa-server""></i>
+        <h4>
+            <a href=""index.php/projects/4-datatemple"">DataTemple</a>
+        </h4>
+        <p>A web application for viewing and managing astrological data on events, people, media and culture.</p>
+    </div>
+    <div class="""">
+        <i class=""fa fa-mobile""></i>
+        <h4>
+            <a href=""index.php/projects/5-unit-price-calculator"">Unit Price Calculator</a>
+        </h4>
+        <p>An android app to calculate and compare multiple unit prices.</p>
+    </div>
+    <div class="""">
+        <i class=""fa fa-camera""></i>
+        <h4>
+            <a href=""index.php/projects/1-broadcaster"">Broadcaster</a>
+        </h4>
+        <p>Seamless and simple video broadcasting from the browser.</p>
+    </div>
+    <!-- col-lg-4 -->
+    <div class="""">
+        <i class=""fa fa-mobile""></i>
+        <h4>
+        	<a href=""index.php/projects/6-recipe"">Recipe Rappele</a>
+        </h4>
+        <p>A chrome extension to extract recipe data from a recipe site, store it for offline usage, and display it in a uncluttered view.</p>
+    </div>
+    <!-- col-lg-4 -->
+    <div class=""col-centered"">
+        <i class=""fa fa-code""></i>
+        <h4>
+        	<a href=""index.php/projects/7-aa-factory"">AA Factory</a>
+        </h4>
+        <p>An interactive coding app for creating and testing autonomous agents.</p>
+    </div>
+</div>
+"
+"Skills
+<div class=""flex-center"">
+    <div class="" skill"">
+        <div class=""helper"">Tap a skill to see more information. Tap an image to make it bigger</div>
+        <i class=""fa fa-server""></i>
+        <h4>Server-side Web Dev</h4>
+        <div class=""hover-hide"">
+            <p>My main area of skills is
+                <b>Node.js</b>. I also have experience with Ruby on Rails, Google Web Kits, and Vaadin</p>
+        </div>
+    </div>
+    <!-- col-lg-4 -->
+    <div class="" skill"">
+        <i class=""fa fa-html5""></i>
+        <h4>Client-side Web Dev</h4>
+        <div class=""hover-hide"">
+            <p>I have excellent experience in front-end development. Some frameworks and tools I've worked with include
+                <b>AngularJS</b>, HTML5, CSS3, Polymer</p>
+        </div>
+    </div>
+    <div class="" skill"">
+        <i class=""fa fa-mobile""></i>
+        <h4>Cordova</h4>
+        <div class=""hover-hide"">
+            <p>I have some experience developing with Android cordova.</p>
+        </div>
+    </div>
+    <!-- col-lg-4 -->
+    <div class="" skill"">
+        <i class=""fa fa-database""></i>
+        <h4>Databases</h4>
+        <div class=""hover-hide"">
+            <p>I have ample experience different databases, including
+                <b>MySQL</b>, PostreSQL, Oracle, MongoDB, and Neo4j.</p>
+        </div>
+    </div>
+    <div class="" skill"">
+        <i class=""fa fa-code""></i>
+        <h4>.NET Framework</h4>
+        <div class=""hover-hide"">
+            <p>
+                <b>WinForms</b>is where I've had the most practice but with an understanding of the .NET framework and strong C# programming skills I would be able to take up Windows Phone or ASP.NET development.</p>
+        </div>
+    </div>
+    <!-- col-lg-4 -->
+    <div class="" skill"">
+        <i class=""fa fa-cloud-upload""></i>
+        <h4>AWS</h4>
+        <div class=""hover-hide"">
+            <p>I used
+                <b>Amazon micro instances</b>to deploy many sites including this site, broadcaster (see
+                <a href=""#broadcaster"">here</a>), and DataTemple. I have experience using NGINX server to create various proxies, allowing multiple web applications run on multiple servers.</p>
+        </div>
+    </div>
+    <div class="" skill"">
+        <i class=""fa fa-laptop""></i>
+        <h4>Linux Administration</h4>
+        <div class=""hover-hide"">
+            <p>I have many years of experience working with Linux environments, especially
+                <b>Ubuntu</b>and
+                <b>Debian</b>. I have used both OS's for PC uses and use Ubuntu Server 14 for cloud deployment.</p>
+        </div>
+    </div>
+    <div class="" skill"">
+        <i class="""">UP</i>
+        <h4>Unified Process</h4>
+        <div class=""hover-hide"">
+            <p>In my college education I received training in the Unified Process and the application of UP to software development on both a large and small scale. I am capable of both
+                <b>designing</b>and
+                <b>applying</b>UP modeling systems such as Activity, Class, and Use Case diagrams to software problems.</p>
+        </div>
+    </div>
+</div>
+"
+"DataTemple
+<a href=""http://localhost:3000/54.67.72.124"">Visit DataTemple </a><br>
+<a href=""https://docs.google.com/presentation/d/1d9267KZ28CfLuS-JsCjGWi8nAgafjiGFawIx1KHCzt4/edit?usp=sharing"">View a presentation of DataTemple's features </a><br>
+DataTemple is a web application I built for a client through ODesk.com. I applied for this job in December 2014 and was chosen for the job out of 50 other applicants. In this job I was responsible for all aspects of the development of the project, 
+
+
+including negotiating terms, analyzing the client’s requirements and developing the website. The web app is an administrative application which allows users to create, edit and search the data. There is a user system with a permission system which allows the administrator users to restrict access of user to certain parts of the site.
+
+The main function of the site is the creation and management of astrological data kept for events, literature, media, people and other categories. The database incorporates over 30,000 records from an existing database. A user can view, edit, delete and create new data. This data is very complex and has a robust UI for editing it. There is also an advanced search functionality which allows the user to add many search criteria.
+
+DataTemple was built with Node.js. It uses the Loopback framework. The client is designed using AngularJS. This project gave me an advanced understanding of Loopback and added to my previous understanding of AngularJS. I also gained excellent experience in how to implement various server-side functionality in a Node.js web server, whether it be Express, Hapi, Loopback, or another web framework."
+"Unit Price Calculator
+<a href=""https://play.google.com/store/apps/details?id=com.cuDev.unitPrice"">View App on Google Play </a>
+Unit Price Calculator is a simple app for calculating and comparing unit prices. The app lets a user enter the price, quantity and optionally the units of the item. The user can calculate just 1 unit price, or 2 or more. They are compared in a table, in ascending order of unit price. The user has the option to edit the data or enter new unit prices.
+
+
+This app was created in 1 day using Cordova and AngularJS. I will add new features to that app eventually. The next feature will be actual unit conversion, allowing each unit price to be entered in different units, and have the output generated in 1 unit. I will also improve the styling and UI of the app and add the logo to appear like a more well rounded app."
+"Recipe Rappele
+<a href=""https://chrome.google.com/webstore/detail/recipe-rappele/beehilhanimicdpnhamfhlkgobngoede?hl=en"">Recipe Rappele in Chrome Store </a>
+Recipe Rappele is a Chrome app. It is an app which downloads recipes from the internet,stores them on your local computer, and allows users to retrieve and view them in a simple and clean view. It was built in a couple of weeks as a practice app to deploy to the Chrome web store.
+"
+"AA Factory
+AA Factory is an interactive programming app that lets users program autonomous agents to complete tasks. 
+
+
+AA Factory gives the user a goal to complete, and the user must write a script in JavaScript to complete the task. It was created by me and one other developer."
+"Web Development
+I am highly experienced in front-end and backend web development. In backend (server-side) development I am experienced with Node.js, Ruby on Rails, Google Web Toolkit (GWT), and Vaadin. 
+"
+"showcase content
+<ul>
+	<li>
+		<h1>Backend Development</h1>
+		<p>
+			Using Node.js and Ruby on Rails, I built many web apps. 
+		</p>
+	</li>
+	<li>
+		<h1>Frontend Development</h1>
+		<p>
+			I am experienced in designing rich user experiences. From using robust JS frameworks like AngularJS and Polymer, to developing mobile-first web apps using Twitter Bootstrap.
+		</p>
+	</li>
+	<li>
+		<h1>And much more...</h1>
+		<p>
+			Through various projects I have become skilled with Apache Cordova, Relational and NoSQL databases, GIT, and linux admin. 
+		</p>
+	</li>
+</ul>
+"
+"All Scholarships RRC
+This is an app that lets you search Red River College's scholarships using a simple keyword interface. With over 400 scholarships it is difficult to find the scholarships that suit a specific user. The source code is at 
+<a href=""https://github.com/ninefinecode/all-scholarships-rrc"">github.com/ninefinecode/all-scholarships-rrc </a>. Download the app and try it out
+<a href=""https://play.google.com/store/apps/details?id=com.cuDev.AllScholarshipsRRC"">here</a>.
+
+
+<img src=""images/image3344.png"" alt="""" />"
+"Bank Of BIT
+<p>This is the assignment project for the course ADEV3000, Programming 3 at Red River College. This is a banking application which includes an ASP.NET MVC project to perform basic CRUD operatings on the database, a Web Services application, an ASP.NET Website for end-user interaction, and a Windows App for bank tellers.</p>
+"
+"xml-editor
+This is a HTML5 app for writing XSLT. See the <a href=""http://chrisusick.github.io/xml-editor/"">live application</a> for more information.
+Source code is at: <a href=""https://github.com/chrisUsick/xml-editor"">github</a>. The app allows for writing XML and XSLT and compiling it into HTML. Files can be uploaded, and edited files can be downloaded in order to make editing files from a file system easier. 
+
+
+<h2>Technologies</h2>
+Some of the technologies used in this app include:
+<ul>
+	<li><a href=""https://github.com/yeoman/generator-gulp-webapp"">yeoman generator gulp-webapp</a></li>
+	<li>ES6 Javascript</li>
+	<li><a href=""http://gulpjs.com/"">gulp for development pipelining</a></li>
+	<li><a href=""http://ace.c9.io/#nav=about"">ace editor</a></li>
+	<li><a href=""http://webcomponents.org/"">web components</a></li>
+</ul>"
+"Time Capsules
+This app allows users to create short articles about significant events. The app will then send emails out monthly or yearly. The app is built with Ruby on Rails framework. A live version of the is <a href=""timecapsules.cu-dev.ca"">hosted by me</a>.
+
+
+This was a demo project to learn Ruby on Rails. The source code can be found at <a href=""https://github.com/chrisUsick/timecapsules"">github</a>."
+"Nine Fine Code
+Nine fine code was a developer shop website I produced to host my professional work. The eventual goal was to get a development team together to develop a portfolio of work, and then look for paying customers. 
+
+
+This project wasn't continued because I found more direct routes to my goal."
+"Car Wash
+This project was a .NET application build for the Programming 2 course at <a href=""http://www.rrc.mb.ca"">Red River College</a>. This application is Windows Forms application for a car washing business.
+
+
+This application covers a wide range of .NET features, inlcuding LINQ, .NET Data sources, Microsoft Express database, user interface design, and more."

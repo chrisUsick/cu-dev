@@ -1,0 +1,7 @@
+{
+  "name": "cu-dev",
+  "dependencies": {
+    "foundation-sites": "~6.2.0",
+    "jquery": "~2.2.2"
+  }
+}

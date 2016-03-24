@@ -1,0 +1,13 @@
+---
+title: Portfolio
+layout: page
+permalink: portfolio
+---
+<div class="row">
+  {% for work in site.portfolio %}
+    <div class="columns">
+      <a href="{{work.url}}">{{ work.title }}</a>
+    </div>
+  {% endfor %}
+
+</div>
